@@ -1,0 +1,31 @@
+body {
+    background: #fefefe;
+}
+section {
+    background: #792fb6;
+
+}
+
+h1 {
+    color: yellowgreen;
+}
+
+p {
+    color: rgb(80, 21, 31);
+}
+h2 {
+    color:#1460AA;
+}
+
+.blue-paragraph {
+    color: blue;
+    background: yellow;
+}
+
+img {
+    height: 40mm
+}
+.header {
+    background: hotpink
+
+}
